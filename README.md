@@ -66,8 +66,6 @@ Operating temperature: 5–45 °C.
 Weight: 33 kg.
 Installation position: floor, ceiling, walls.
 
-
-
 ![download](https://user-images.githubusercontent.com/36288975/201624230-89cc83ff-cecd-49ea-84c6-c67066e9d157.jpg)
 
 ### Figure -02 Doosan M1013 industrial collaborative robot manipulator 
@@ -79,37 +77,25 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
+3. click on the connect icon
 
+4.click on the task builder and create a new task.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+5.Name the task as pick and place and build the task.
+## PROGRAM
+![image](https://github.com/MARXINLIJO/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/145742540/08c0be81-f69a-430b-96af-857bc724aeff)
+![image](https://github.com/MARXINLIJO/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/145742540/f108e7f1-297d-41e4-98e1-98ec81449a8e)
+![image](https://github.com/MARXINLIJO/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/145742540/16d3c575-7a75-466c-b932-0b4c8542a692)
+![image](https://github.com/MARXINLIJO/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/145742540/786b2284-f11a-4931-b32a-70dab9be613b)
 
 ### output video and screen shots of pick and place 
-
-
-
-
-
-
+## PICK
+![image](https://github.com/MARXINLIJO/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/145742540/bc3003ad-760e-40b6-87bf-401f89a3489a)
+![image](https://github.com/MARXINLIJO/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/145742540/8511e455-5e8f-451d-a0b4-a5cd7cbca93a)
+![image](https://github.com/MARXINLIJO/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/145742540/82834b30-d707-4b5f-940c-05a993e95bdb)
+## PLACE
+![image](https://github.com/MARXINLIJO/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/145742540/e8ee26a7-832c-4696-8b6c-6e52b402b46b)
+![image](https://github.com/MARXINLIJO/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/145742540/7fd2032f-fa83-4d1a-84c1-6e08f5fdd615)
 
 ### Results: 
-
-
-
-
-
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
